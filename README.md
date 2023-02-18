@@ -17,18 +17,3 @@ I'm currently study IT at Posts and Telecommunications Institute of Technology<b
 
 ---
 [![](https://visitcount.itsvg.in/api?id=peacock08&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
